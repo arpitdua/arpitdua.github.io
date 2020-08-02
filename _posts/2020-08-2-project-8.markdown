@@ -1,0 +1,12 @@
+---
+title: Wealth Forecast - M/L
+subtitle: Economic Research
+layout: default
+link: https://drive.google.com/file/d/1LVp09pR2agBNQs8a4IzgHoMmvvexVROG/view?usp=sharing
+img: Wealth Forecast..png
+thumbnail: Wealth Forecast.png
+alt: image-alt
+category: Brand Analysis
+description:
+
+---

@@ -1,0 +1,23 @@
+url: https://arpitdua.github.io
+baseurl: /arpitdua/
+
+# Site settings
+title: 
+email: arpitdua@gmail.com
+description: "All about Arpit Dua"
+
+
+# Team names, titles and social links
+people:
+- name: Arpit Dua
+  pic: 1
+  position:
+  social:
+    - title: linkedin
+      url: #https://www.linkedin.com/in/arpit-dua/
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

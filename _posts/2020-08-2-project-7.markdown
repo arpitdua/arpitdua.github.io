@@ -1,0 +1,12 @@
+---
+title: Brand Analysis - Tesla
+subtitle: Brand Analysis
+layout: default
+link: https://drive.google.com/file/d/13DkIWYPX0J3JeR488_ka75FAiIXSdErB/view
+img: Brand Tesla.png
+thumbnail: Brand Tesla.png
+alt: image-alt
+category: Brand Analysis
+description:
+
+---

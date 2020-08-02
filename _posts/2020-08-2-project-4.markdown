@@ -1,0 +1,12 @@
+---
+title: LBO Analysis - Pfizer
+subtitle: Investment Banking
+layout: default
+link: https://drive.google.com/file/d/1UrDh01oYjz4DmkWyPo3XvK02KswUyhcr/view
+img: LBO Pfizer.png
+thumbnail: LBO Pfizer.png
+alt: image-alt
+category: Investment Banking
+description:
+
+---

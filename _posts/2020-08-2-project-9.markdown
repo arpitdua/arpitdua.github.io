@@ -1,0 +1,12 @@
+---
+title: Monetary Policy 
+subtitle: Economic Research
+layout: default
+link: https://drive.google.com/file/d/104SPOHNRK500qxwwyXKiLt8E2IC3i3lY/view?usp=sharing
+img: Monetary Policy.png
+thumbnail: Monetary Policy.png
+alt: image-alt
+category: Brand Analysis
+description:
+
+---

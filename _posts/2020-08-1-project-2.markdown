@@ -1,0 +1,12 @@
+---
+title: Comparable Analysis - Pfizer
+subtitle: Investment Banking
+layout: default
+link: https://drive.google.com/file/d/1FMvAxyjrohbS2plHubyptFOIwHBI7iCg/view
+img: Pfizer.png
+thumbnail: Pfizer.png
+alt: image-alt
+category: Investment Banking
+description:
+
+---

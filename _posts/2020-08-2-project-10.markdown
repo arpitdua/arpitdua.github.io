@@ -1,0 +1,12 @@
+---
+title: Macro-Economic Policy
+subtitle: Economic Research
+layout: default
+link: https://drive.google.com/file/d/1qtBshIB49bvRqaalAOCYnEIyO_7zs_nm/view?usp=sharing
+img: Macro.png
+thumbnail: Macro.png
+alt: image-alt
+category: Economic Research
+description:
+
+---

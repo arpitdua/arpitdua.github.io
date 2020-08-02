@@ -1,0 +1,52 @@
+<!-- About Section -->
+    <section id="about">
+         <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Education</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive" alt="">
+                    </div>
+                </div>
+                {% endfor %}
+
+                <div class="col-sm-8">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/USC-Logo.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="subheading">MS, Finance</h4>
+                                    <h4 class="subheading">University of Southern California</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">I am currently a first-year master’s student at Marshall School of Business at University of Southern California. I am pursing an M.S. in Finance with a concentration in M&amp;A.</p>
+                                </div>
+                                
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/ucsd.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>BA, Economics</h4>
+                                    <h4 class="subheading">University of California, San Diego</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">I hold a B.A. in Economics with a minor in Business from U.C. San Diego, graduating with Latin Honors (Cum Laude).</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </section>
